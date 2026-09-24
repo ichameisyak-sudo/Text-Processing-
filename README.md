@@ -16,4 +16,4 @@ A simple Data Science workflow in Python that fetches spaceflight news articles 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/USERNAME/REPO-NAME.git](https://github.com/USERNAME/REPO-NAME.git)
+   git clone [https://github.com/ichameisyak-sudo/Text-Processing-.git](https://github.com/ichameisyak-sudo/Text-Processing-.git)
